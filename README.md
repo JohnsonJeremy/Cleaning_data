@@ -4,7 +4,10 @@ This repository contains the information to manipulate the data from the UCI HAR
 and convert it to a tidy data frame.  Additionally, the resulting tidy data is then processed
 further to calculate the mean for each value for each subject/activity combination.
 
-This repository has 7 files:
+The source of the data can be found at:
+https://d396qusza40orc.cloudfront.net/getdata%2Fproject les%2FUCI%20HAR%20Dataset.zip
+
+This repository has 6 files:
 
 1) This readme.md file
 
