@@ -7,18 +7,14 @@ further to calculate the mean for each value for each subject/activity combinati
 The source of the data can be found at:  
 (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-This repository has 6 files:
+This repository has 5 files:
 
 1) This readme.md file
 
-2) The raw data
+2) A Codebook describing the conversion of the data (codebook.docx)
 
-3) A Codebook describing the conversion of the data (codebook.docx)
+3) A script file (run_analysis.R) to convert the raw data to a tidy data set and perfrom calculation of subject/activity means..
 
-4) A script file (tidy_har_data.R) to convert the raw data to a tidy data set.
+4) The resulting tidy dataset (tidy_HAR_dataset.csv)
 
-5) A script file (tidy_har_means.R) to use the tidy data to calculate the means.
-
-6) The resulting tidy dataset (tidy_HAR_dataset.csv)
-
-7) The resutling means calculation (tidy_HAR_means.csv)
+5) The resutling means calculation (tidy_HAR_means.csv)
